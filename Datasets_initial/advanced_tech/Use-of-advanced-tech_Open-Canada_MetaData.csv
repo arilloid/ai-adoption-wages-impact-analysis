@@ -1,0 +1,193 @@
+﻿"Cube Title","Product Id","CANSIM Id",URL,"Cube Notes","Archive Status",Frequency,"Start Reference Period","End Reference Period","Total number of dimensions"
+"Use of advanced or emerging technologies, by industry and enterprise size","27100367",,"https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2710036701",,"CURRENT - a cube available to the public and that is current","Occasional","2017-01-01","2022-01-01","4",
+
+"Dimension ID","Dimension name","Dimension Notes","Dimension Definitions"
+"1","Geography",1,""
+"2","North American Industry Classification System (NAICS)",,""
+"3","Enterprise size",1,""
+"4","Advanced or emerging technologies",,""
+
+"Dimension ID","Member Name","Classification Code","Member ID","Parent Member ID",Terminated,"Member Notes","Member Definitions"
+"1","Atlantic Region","[1]","2","1","",2,
+"1","Quebec","[24]","3","1","",,
+"1","Ontario","[35]","4","1","",,
+"1","Rest of Canada","","5","1","",3,
+"1","Alberta","[48]","6","5","",,
+"1","Rest of Canada excluding Alberta","","7","5","",,
+"1","Canada","[11124]","1","","",,
+"2","Agriculture, forestry, fishing and hunting","[11]","2","1","",,
+"2","Mining, quarrying, and oil and gas extraction","[21]","3","1","",,
+"2","Utilities","[22]","7","1","",,
+"2","Construction","[23]","8","1","",,
+"2","Manufacturing","[31-33]","9","1","",,
+"2","Postal services, couriers and messengers, warehousing and storage","","68","1","",20,
+"2","Information and cultural industries","[51]","69","1","",,
+"2","Finance and insurance excluding monetary authorities","","78","1","",21,
+"2","Real estate and rental and leasing","[53]","84","1","",,
+"2","Professional, scientific and technical services","[54]","85","1","",,
+"2","Management of companies and enterprises","[55]","94","1","",,
+"2","Administrative and support, waste management and remediation services","[56]","95","1","",,
+"2","Total, selected services industries","","44","1","",14,
+"2","Wholesale trade","[41]","45","1","",,
+"2","Retail trade","[44-45]","59","1","",,
+"2","Transportation and warehousing","[48-49]","60","1","",,
+"2","All transportation","","61","1","",17,
+"2","Oil and gas extraction","[211]","4","3","",,
+"2","Mining and quarrying (except oil and gas)","[212]","5","3","",,
+"2","Support activities for mining and oil and gas extraction","[213]","6","3","",,
+"2","Food manufacturing","[311]","10","9","",,
+"2","Beverage and tobacco product manufacturing","[312]","11","9","",,
+"2","Textile and textile product mills, clothing and leather and allied product manufacturing","","12","9","",7,
+"2","Wood product manufacturing","[321]","13","9","",,
+"2","Paper manufacturing","[322]","14","9","",,
+"2","Printing and related support activities","[323]","15","9","",,
+"2","Petroleum and coal product manufacturing","[324]","16","9","",,
+"2","Chemical manufacturing","[325]","17","9","",,
+"2","Plastics and rubber products manufacturing","[326]","20","9","",,
+"2","Non-metallic mineral product manufacturing","[327]","25","9","",,
+"2","Primary metal manufacturing","[331]","26","9","",,
+"2","Fabricated metal product manufacturing","[332]","27","9","",,
+"2","Machinery manufacturing","[333]","28","9","",,
+"2","Computer and electronic product manufacturing","[334]","29","9","",,
+"2","Electrical equipment, appliance and component manufacturing","[335]","34","9","",,
+"2","Transportation equipment manufacturing","[336]","35","9","",,
+"2","Furniture and related product manufacturing","[337]","40","9","",,
+"2","Miscellaneous manufacturing","[339]","41","9","",,
+"2","Seafood product preparation and packaging","[3117]","96","10","",,
+"2","Other food manufacturing","","97","10","",27,
+"2","Pharmaceutical and medicine manufacturing","[3254]","18","17","",,
+"2","All other chemical manufacturing","","19","17","",8,
+"2","Plastic product manufacturing","[3261]","21","20","",,
+"2","Rubber product manufacturing","[3262]","24","20","",,
+"2","Motor vehicle plastic parts manufacturing","[326193]","22","21","",,
+"2","All other plastic product manufacturing","","23","21","",9,
+"2","Computer and peripheral equipment manufacturing and communications equipment manufacturing","","30","29","",10,
+"2","Semiconductor and other electronic component manufacturing","[3344]","31","29","",,
+"2","Navigational, measuring, medical and control instruments manufacturing","[3345]","32","29","",,
+"2","Audio and visual equipment manufacturing and manufacturing and reproducing magnetic and optical media","","33","29","",11,
+"2","Motor vehicle and motor vehicle body and trailer manufacturing","","36","35","",12,
+"2","Motor vehicle parts manufacturing","[3363]","37","35","",,
+"2","Aerospace product and parts manufacturing","[3364]","38","35","",,
+"2","All other transportation equipment manufacturing","","39","35","",13,
+"2","Medical equipment and supplies manufacturing","[3391]","42","41","",,
+"2","Other miscellaneous manufacturing","[3399]","43","41","",,
+"2","Farm product merchant wholesalers","[411]","46","45","",,
+"2","Petroleum and petroleum products merchant wholesalers","[412]","47","45","",,
+"2","Food, beverage and tobacco merchant wholesalers","[413]","48","45","",,
+"2","Personal and household goods merchant wholesalers","[414]","49","45","",,
+"2","Motor vehicle and motor vehicle parts and accessories merchant wholesalers","[415]","52","45","",,
+"2","Building material and supplies merchant wholesalers","[416]","53","45","",,
+"2","Machinery, equipment and supplies merchant wholesalers","[417]","54","45","",,
+"2","Miscellaneous merchant wholesalers","[418]","57","45","",,
+"2","Business-to-business electronic markets, and agents and brokers","[419]","58","45","",,
+"2","Pharmaceuticals, toiletries, cosmetics and sundries merchant wholesalers","[4145]","50","49","",,
+"2","Textile, clothing, footwear, home entertainment equipment, household appliance, home furnishings and personal goods merchant wholesalers","","51","49","",15,
+"2","Computer and communications equipment and supplies merchant wholesalers","[4173]","55","54","",,
+"2","Farm, lawn, garden machinery and equipment, construction, forestry, mining, industrial machinery equipment and supplies, and other machinery, equipment and supplies merchant wholesalers","","56","54","",16,
+"2","Scenic and sightseeing transportation and support activities for transportation","","67","61","",19,
+"2","Air transportation","[481]","62","61","",,
+"2","Rail and water transportation","","63","61","",18,
+"2","Truck transportation","[484]","64","61","",,
+"2","Transit and ground passenger transportation","[485]","65","61","",,
+"2","Pipeline transportation","[486]","66","61","",,
+"2","Publishing industries (except internet)","[511]","70","69","",,
+"2","Motion picture and sound recording industries","[512]","73","69","",,
+"2","Broadcasting (except internet)","[515]","74","69","",,
+"2","Telecommunications","[517]","75","69","",,
+"2","Data processing, hosting and related services","[518]","76","69","",,
+"2","Other information services","[519]","77","69","",,
+"2","Newspaper, periodical, book and directory publishers","[5111]","71","70","",,
+"2","Software publishers","[5112]","72","70","",,
+"2","Credit intermediation and related activities and other funds from financial vehicles","","79","78","",22,
+"2","Securities, commodity contracts, and other financial investment and related activities","[523]","80","78","",,
+"2","Insurance carriers and related activities","[524]","83","78","",,
+"2","Securities and commodity contracts intermediation and brokerage","[5231]","81","80","",,
+"2","Securities and commodity exchanges and other financial investment activities","","82","80","",23,
+"2","Legal services","[5411]","86","85","",,
+"2","Accounting, tax preparation, bookkeeping and payroll services","[5412]","87","85","",,
+"2","Architectural, engineering and related services","[5413]","88","85","",,
+"2","Specialized design services and all other professional, scientific and technical services","","89","85","",24,
+"2","Computer systems design and related services","[5415]","90","85","",,
+"2","Management, scientific and technical consulting services","[5416]","91","85","",,
+"2","Scientific research and development services","[5417]","92","85","",,
+"2","Advertising, public relations and related services","[5418]","93","85","",,
+"2","Total, all surveyed industries","","1","","",6,
+"3","Small enterprises (20 to 99 employees)","","2","1","",,
+"3","Medium-sized enterprises (100 to 249 employees)","","3","1","",,
+"3","Large enterprises (250 and more employees)","","4","1","",,
+"3","Total, all enterprise sizes","","1","","",,
+"4","Material handling, supply chain or logistics technologies","","2","1","",,
+"4","Design or information control technologies","","3","1","",,
+"4","Processing or fabrication technologies","","4","1","",,
+"4","Clean technologies","","5","1","",,
+"4","Security or advanced authentication systems","","6","1","",,
+"4","Business intelligence technologies","","7","1","",,
+"4","Other types of advanced technologies","","8","9","",28,
+"4","Nanotechnology","","10","9","",,
+"4","Biotechnology","","11","9","",,
+"4","Geomatics or geospatial technologies","","12","9","",,
+"4","Artificial intelligence (AI)","","13","9","",,
+"4","Integrated Internet of Things (IoT) systems","","14","9","",,
+"4","Blockchain technologies","","15","9","",,
+"4","Other types of emerging technologies","","16","9","t",,
+"4","Virtual, mixed and augmented reality","","18","9","",,
+"4","Additive manufacturing","","19","9","",,
+"4","Robotics","","20","9","",26,
+"4","Quantum technology","","21","9","",26,
+"4","Advanced technology use","","1","","t",4,
+"4","Emerging technology use","","9","","t",5,
+"4","Any advanced or emerging technology use","","17","","",,
+
+Symbol Legend
+Description,Symbol
+"not available for a specific reference period","..",
+"less than the limit of detection","<LOD",
+"value rounded to 0 (zero) where there is a meaningful distinction between true zero and the value that was rounded","0s",
+"data quality: excellent","A",
+"data quality: very good","B",
+"data quality: good","C",
+"data quality: acceptable","D",
+"use with caution","E",
+"too unreliable to be published","F",
+"not applicable","...",
+"preliminary","p",
+"revised","r",
+"suppressed to meet the confidentiality requirements of the Statistics Act","x",
+"terminated","t",
+
+"Survey Code","Survey Name"
+"5171","Survey of Innovation and Business Strategy"
+
+"Subject Code","Subject Name"
+"27","Science and technology"
+
+"Note ID",Note
+1,"Regional distribution by size of enterprise is not available."
+2,"Atlantic includes Newfoundland and Labrador, Prince Edward Island, Nova Scotia and New Brunswick."
+3,"The rest of Canada includes Manitoba, Saskatchewan, Alberta, British Columbia, Yukon, Northwest Territories and Nunavut. To use with caution."
+4,""Advanced technology use" includes Material handling, supply chain or logistics technologies, Design or information control technologies, Processing or fabrication technologies, Clean technologies, Security or advanced authentication systems, Business intelligence technologies, or Other types of advanced technologies."
+5,""Emerging technology use" includes Nanotechnology, Biotechnology, Geomatics or geospatial technologies, Artificial intelligence (AI), Integrated Internet of Things (IoT) systems, Blockchain technologies, or Other types of advanced technologies."
+6,"Includes North American Industry Classification System (NAICS) codes 11, 21, 22, 23, 31-33, 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+7,"Includes North American Industry Classification System (NAICS) codes 313, 314, 315 and 316."
+8,"Includes North American Industry Classification System (NAICS) codes 3251, 3252, 3253, 3255, 3256 and 3259."
+9,"Includes North American Industry Classification System (NAICS) codes 32611, 32612, 32613, 32614, 32615, 32616, 326191, 326196 and 326198."
+10,"Includes North American Industry Classification System (NAICS) codes 3341 and 3342."
+11,"Includes North American Industry Classification System (NAICS) codes 3343 and 3346."
+12,"Includes North American Industry Classification System (NAICS) codes 3361 and 3362."
+13,"Includes North American Industry Classification System (NAICS) codes 3365, 3366 and 3369."
+14,"Includes North American Industry Classification System (NAICS) codes 41, 44-45, 48-49, 51, 52, 53, 54, 55 and 56."
+15,"Includes North American Industry Classification System (NAICS) codes 4141, 4142, 4143 and 4144."
+16,"Includes North American Industry Classification System (NAICS) codes 4171, 4172 and 4179."
+17,"Includes North American Industry Classification System (NAICS) codes 481, 482, 483, 484, 485, 486, 487 and 488."
+18,"Includes North American Industry Classification System (NAICS) codes 482 and 483."
+19,"Includes North American Industry Classification System (NAICS) codes 487 and 488."
+20,"Includes North American Industry Classification System (NAICS) codes 491, 492 and 493."
+21,"Includes North American Industry Classification System (NAICS) codes 52 except 521."
+22,"Includes North American Industry Classification System (NAICS) codes 522 and 526."
+23,"Includes North American Industry Classification System (NAICS) codes 5232 and 5239."
+24,"Includes North American Industry Classification System (NAICS) codes 5414 and 5419."
+26,"Response category was introduced in 2022."
+27,"Includes North American Industry Classification System (NAICS) codes 3111, 3112, 3113, 3114, 3115, 3116, 3118 and 3119."
+28,"Other types of advanced technologies in 2022 differ from those in 2017 and 2019. During the 2017 and 2019 period, there were two categories: advanced technologies and emerging technologies. In the 2022 period, these two categories were combined into one category of advanced technologies. Compare with caution."
+
+"Correction ID","Correction Date","Correction Note"

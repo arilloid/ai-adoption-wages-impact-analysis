@@ -1,0 +1,43 @@
+year,GEO,naics_name,naics_sector,ai_adoption_rate
+2017,Canada,"Total, all surveyed industries",TOTAL,4.0
+2017,Canada,"Agriculture, forestry, fishing and hunting [11]",11,1.8
+2017,Canada,"Mining, quarrying, and oil and gas extraction [21]",21,3.7
+2017,Canada,Utilities [22],22,3.4
+2017,Canada,Construction [23],23,0.8
+2017,Canada,Manufacturing [31-33],31-33,2.8
+2017,Canada,Wholesale trade [41],41,3.0
+2017,Canada,Retail trade [44-45],44-45,2.1
+2017,Canada,Transportation and warehousing [48-49],48-49,1.6
+2017,Canada,Information and cultural industries [51],51,16.8
+2017,Canada,Real estate and rental and leasing [53],53,2.1
+2017,Canada,"Professional, scientific and technical services [54]",54,11.5
+2017,Canada,Management of companies and enterprises [55],55,3.2
+2017,Canada,"Administrative and support, waste management and remediation services [56]",56,4.7
+2019,Canada,"Total, all surveyed industries",TOTAL,5.9
+2019,Canada,"Agriculture, forestry, fishing and hunting [11]",11,1.3
+2019,Canada,"Mining, quarrying, and oil and gas extraction [21]",21,4.6
+2019,Canada,Utilities [22],22,7.0
+2019,Canada,Construction [23],23,0.9
+2019,Canada,Manufacturing [31-33],31-33,3.6
+2019,Canada,Wholesale trade [41],41,5.3
+2019,Canada,Retail trade [44-45],44-45,4.7
+2019,Canada,Transportation and warehousing [48-49],48-49,3.8
+2019,Canada,Information and cultural industries [51],51,18.2
+2019,Canada,Real estate and rental and leasing [53],53,1.9
+2019,Canada,"Professional, scientific and technical services [54]",54,20.9
+2019,Canada,Management of companies and enterprises [55],55,6.1
+2019,Canada,"Administrative and support, waste management and remediation services [56]",56,3.0
+2022,Canada,"Total, all surveyed industries",TOTAL,6.3
+2022,Canada,"Agriculture, forestry, fishing and hunting [11]",11,7.9
+2022,Canada,"Mining, quarrying, and oil and gas extraction [21]",21,5.3
+2022,Canada,Utilities [22],22,17.2
+2022,Canada,Construction [23],23,2.2
+2022,Canada,Manufacturing [31-33],31-33,4.7
+2022,Canada,Wholesale trade [41],41,4.9
+2022,Canada,Retail trade [44-45],44-45,4.8
+2022,Canada,Transportation and warehousing [48-49],48-49,5.5
+2022,Canada,Information and cultural industries [51],51,18.0
+2022,Canada,Real estate and rental and leasing [53],53,6.1
+2022,Canada,"Professional, scientific and technical services [54]",54,16.1
+2022,Canada,Management of companies and enterprises [55],55,6.7
+2022,Canada,"Administrative and support, waste management and remediation services [56]",56,3.7
