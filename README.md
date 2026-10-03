@@ -8,7 +8,7 @@ An exploratory analysis of whether wage trends across Canada's major occupationa
 
 | Dataset | Source | Coverage |
 |---|---|---|
-| Wages (low, median, high hourly wage by National Occupational Category (NOC)) | [Statistics Canada, 13 annual files]((https://open.canada.ca/data/en/dataset/adad580f-76b0-4502-bd05-20c125de9116)) | 2012-2024 |
+| Wages (low, median, high hourly wage by National Occupational Category (NOC)) | [Statistics Canada, 13 annual files](https://open.canada.ca/data/en/dataset/adad580f-76b0-4502-bd05-20c125de9116) | 2012-2024 |
 | Use of advanced or emerging technologies, by industry and enterprise size | [Statistics Canada](https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=2710036701) | 2017, 2019, 2022 |
 
 ## Notebooks
