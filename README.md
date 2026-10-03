@@ -19,12 +19,11 @@ An exploratory analysis of whether wage trends across Canada's major occupationa
 
 ## Main limitations
 
-- AI exposure is approximated by averaging industry-level rates, and group wages are unweighted means.
-- Only three AI survey years exist, and results show association at a broad level, not cause and effect.
+- Only three AI survey years exist, therefore the results show association at a broad level, not cause and effect.
 - Occupations were linked to industries using a custom mapping built for this analysis (a judgment-based approximation).
 
 **See the notebooks for the complete methodology and caveats.**
 
---------
 
+## Authorship
 > This analysis was completed as part of a group project for the Introduction to Data Science course at York University. This repository shares only the part of the analysis I authored, with the consent of my groupmates.
